@@ -2,7 +2,7 @@
 
 <details>
 
-<summary><mark style="color:orange;"><strong>Nhân viên đặt hàng</strong></mark></summary>
+<summary><strong>Nhân viên đặt hàng</strong></summary>
 
 [huong-dan-xu-ly-mua-hang.md](order/huong-dan-xu-ly-mua-hang.md "mention")                         [huong-dan-xu-ly-khi-thieu-hang.md](order/huong-dan-xu-ly-khi-thieu-hang.md "mention")
 
