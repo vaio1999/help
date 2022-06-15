@@ -2,7 +2,7 @@
 
 * [GIỚI THIỆU](README.md)
 
-## QUẢN LÝ <a href="# manager" id=" manager"></a>
+## QUẢN LÝ <a href="#manager" id="manager"></a>
 
 * [QUẢN LÝ SALE](< manager/sale.md>)
 * [QUẢN LÝ ĐẶT HÀNG](< manager/order.md>)
@@ -12,7 +12,7 @@
 ## TRƯỞNG NHÓM <a href="#leader" id="leader"></a>
 
 * [TRƯỞNG NHÓM SALE](leader/sale.md)
-* [TRƯỞNG NHÓM  CSKH](leader/cs.md)
+* [TRƯỞNG NHÓM CSKH](leader/cs.md)
 
 ## NHÂN VIÊN <a href="#staff" id="staff"></a>
 
@@ -28,4 +28,6 @@
 * [NHÂN VIÊN GIAO DỊCH](staff/trancsition/README.md)
   * [🧐 Hướng dẫn quản lý phương án xử lý](staff/trancsition/huong-dan-quan-ly-phuong-an-xu-ly.md)
 * [NHÂN VIÊN KHIẾU NẠI](staff/nhan-vien-khieu-nai.md)
-* [NHÂN VIÊN MARKETING](staff/marketing.md)
+* [NHÂN VIÊN MARKETING](staff/marketing/README.md)
+  * [Hướng dẫn asign khách cho SALE](staff/marketing/huong-dan-asign-khach-cho-sale.md)
+  * [Hướng dẫn thêm bài viết mới cho Tin tức](staff/marketing/huong-dan-them-bai-viet-moi-cho-tin-tuc.md)
