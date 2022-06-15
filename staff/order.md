@@ -2,7 +2,7 @@
 
 <details>
 
-<summary><a href="https://naipot.com/cp/#/purchase/">https://naipot.com/cp/#/purchase/</a></summary>
+<summary>Nhân viên đặt hàng</summary>
 
 [huong-dan-xu-ly-mua-hang.md](order/huong-dan-xu-ly-mua-hang.md "mention")                         [huong-dan-xu-ly-khi-thieu-hang.md](order/huong-dan-xu-ly-khi-thieu-hang.md "mention")
 
