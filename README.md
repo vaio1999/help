@@ -62,8 +62,8 @@ Nhân sự truy cập theo chức danh và phòng ban của mình:
 [trancsition](staff/trancsition/)
 {% endcontent-ref %}
 
-{% content-ref url="staff/nhan-vien-khieu-nai.md" %}
-[nhan-vien-khieu-nai.md](staff/nhan-vien-khieu-nai.md)
+{% content-ref url="staff/nhan-vien-khieu-nai/" %}
+[nhan-vien-khieu-nai](staff/nhan-vien-khieu-nai/)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
