@@ -8,6 +8,10 @@ Sau khi đơn hàng được bên "Mua hàng " đặt mua thành công trên cá
 
 ![](../../.gitbook/assets/1655277305057.png)
 
+{% hint style="info" %}
+Có thể sử dụng chức năng lọc <mark style="color:yellow;">**Trạng thái đơn**</mark> : <mark style="color:blue;">**Đã mua hàng**</mark>, <mark style="color:yellow;">**Lọc khác**</mark> : <mark style="color:blue;">**Chưa thanh toán,**</mark>** **<mark style="color:yellow;">**Tài khoản đặt mua**</mark>.
+{% endhint %}
+
 Sau khi click vào <mark style="color:red;">**Cập nhật thanh toán**</mark> thì hệ thống sẽ hiển thị 1 Popup <mark style="color:blue;">**Xác nhận đã thanh toán đơn hàng Chipo**</mark> :
 
 ![](../../.gitbook/assets/1655277751441.png)
@@ -21,7 +25,7 @@ Lựa chọn <mark style="color:orange;">T</mark><mark style="color:orange;">**�
 ### 1.2, Nhân viên Thanh Toán sẽ chọn <mark style="color:yellow;">**Thêm tài khoản Thanh toán**</mark> ,kiểm tra lại thông tin đơn hàng và <mark style="color:red;">**Xác nhận**</mark> thanh toán .
 
 {% hint style="warning" %}
-Chú ý: Nếu Nhân viên Giao dịch cập nhật thiếu Mã giao dịch và Mã thanh toán ,hoặc sai ,nhưng đã vội kết đơn thì đến đây ,nhân viên Thanh toán sẽ taọ thêm giao dịch mới bằng cách click vào <mark style="color:red;">**Thêm**</mark> trên popup Cập nhật Thanh toán ,hoặc sửa lại thông tin giao dịch .
+Chú ý: Nếu Nhân viên Giao dịch cập nhật thiếu Mã giao dịch và Mã thanh toán ,hoặc sai ,nhưng đã vội kết đơn thì đến đây ,nhân viên Thanh toán sẽ taọ thêm giao dịch mới bằng cách click vào <mark style="color:red;">**Thêm**</mark> trên popup Cập nhật Thanh toán, hoặc sửa lại thông tin giao dịch .
 {% endhint %}
 
 Sau khi xác nhận thanh toán thành công ,giao dịch NCC của đơn hàng bên <mark style="color:green;">**Danh sách giao dịch nhà CC**</mark> sẽ chuyển trạng thái từ <mark style="color:blue;">**Chờ Xử Lý**</mark> thành <mark style="color:blue;">**Thành Công**</mark>.
