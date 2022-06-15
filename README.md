@@ -42,8 +42,8 @@ Nhân sự truy cập theo chức danh và phòng ban của mình:
 [cs.md](staff/cs.md)
 {% endcontent-ref %}
 
-{% content-ref url="staff/order/" %}
-[order](staff/order/)
+{% content-ref url="staff/order.md" %}
+[order.md](staff/order.md)
 {% endcontent-ref %}
 
 {% content-ref url="staff/nhan-vien-thanh-toan/" %}
