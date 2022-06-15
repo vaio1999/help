@@ -2,9 +2,7 @@
 
 ###
 
-
-
-Nhân sự truy cập theo chức danh và phòng ban của mình:
+Nhân sự truy cập theo chức danh của mình:
 
 {% tabs %}
 {% tab title="QUẢN LÝ" %}
