@@ -54,8 +54,8 @@ Nhân sự truy cập theo chức danh và phòng ban của mình:
 [cn\_warehouse](staff/cn\_warehouse/)
 {% endcontent-ref %}
 
-{% content-ref url="staff/vn_warehouse.md" %}
-[vn\_warehouse.md](staff/vn\_warehouse.md)
+{% content-ref url="staff/vn_warehouse/" %}
+[vn\_warehouse](staff/vn\_warehouse/)
 {% endcontent-ref %}
 
 {% content-ref url="staff/trancsition/" %}
