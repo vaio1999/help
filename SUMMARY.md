@@ -28,7 +28,7 @@
   * [😇 Hướng dẫn thanh toán NCC](staff/nhan-vien-thanh-toan/huong-dan-thanh-toan-ncc.md)
 * [NHÂN VIÊN KHO TQ](staff/cn\_warehouse/README.md)
   * [🤓 Hướng dẫn kiểm hàng mới và quản lý KNNB](staff/cn\_warehouse/huong-dan-kiem-hang-moi-va-quan-ly-knnb.md)
-* [NHÂN VIÊN KHO VN](staff/vn\_warehouse/README.md)
+* [NHÂN VIÊN KHO VN](staff/vn\_warehouse.md)
   * [Hướng dẫn kiện hàng phát chung](staff/vn\_warehouse/huong-dan-kien-hang-phat-chung.md)
   * [Hướng dẫn truy thu và tạo yêu cầu giao hộ khách](staff/vn\_warehouse/huong-dan-truy-thu-va-tao-yeu-cau-giao-ho-khach.md)
   * [Hướng dẫn nhập hàng về kho VN](staff/vn\_warehouse/huong-dan-nhap-hang-ve-kho-vn.md)
@@ -40,4 +40,3 @@
   * [Hướng dẫn xử lý khiếu nại dịch vụ](staff/nhan-vien-khieu-nai/huong-dan-xu-ly-khieu-nai-dich-vu.md)
 * [NHÂN VIÊN MARKETING](staff/marketing/README.md)
   * [Hướng dẫn asign khách cho SALE](staff/marketing/huong-dan-asign-khach-cho-sale.md)
-  * [Hướng dẫn thêm bài viết mới cho Tin tức](staff/marketing/huong-dan-them-bai-viet-moi-cho-tin-tuc.md)
