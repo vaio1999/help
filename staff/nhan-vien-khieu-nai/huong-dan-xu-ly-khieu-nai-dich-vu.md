@@ -34,7 +34,7 @@ Bấm <mark style="color:blue;">**Mã khiếu nại**</mark> để vào <mark st
 
 ![](../../.gitbook/assets/1655374931077.png)
 
-## 2.2, Ở màn Chi tiết khiếu nại, bấm Cập nhật trạng thái xử lý:
+### 2.2, Ở màn <mark style="color:green;">**Chi tiết khiếu nại**</mark>, bấm <mark style="color:red;">**Cập nhật trạng thái xử lý**</mark> <mark style="color:red;">**(1)**</mark> => Chọn trạng thái xử lý <mark style="color:red;">**(2)**</mark> => Bấm <mark style="color:orange;">**Cập nhật xử lý**</mark>** **<mark style="color:red;">**(3)**</mark>:
 
 ![](../../.gitbook/assets/1655433825430.png)
 
@@ -51,3 +51,5 @@ Tại màn hình này, chọn Shop TQ đã refund khi được nhà cung cấp h
 
 [![](../../.gitbook/assets/1655436497601.png)](https://javascript)
 {% endhint %}
+
+### 2.3 Bấm Tạo&#x20;
