@@ -4,7 +4,7 @@
 
 \- Nhân viên sale có nhiệm vụ tìm kiếm khách hàng thông qua các nguồn khác nhau và nhập thông tin khách hàng trên trang CRM.
 
-### <mark style="color:purple;">**1.1,**</mark> Tại màn hình <mark style="color:green;">**CRM**</mark> Sale sẽ Click <mark style="color:blue;">\*\*\*\*</mark> vào <mark style="color:red;">**Thêm Khách Hàng**</mark> :
+### <mark style="color:purple;">**1.1,**</mark> Tại màn hình <mark style="color:green;">**CRM**</mark> Sale bấm <mark style="color:red;">**Thêm Khách Hàng**</mark> :
 
 ![](../../.gitbook/assets/screencapture-naipot-com-cp-1655039726655.png)
 

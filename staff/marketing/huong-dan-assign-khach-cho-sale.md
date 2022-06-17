@@ -1,4 +1,4 @@
-# Hướng dẫn asign khách cho SALE
+# 😃 Hướng dẫn assign khách cho SALE
 
 ## 1, Ở màn <mark style="color:green;">**Danh sách kho Khách hàng**</mark>, bấm <mark style="color:red;">**Thêm mới**</mark> :&#x20;
 
