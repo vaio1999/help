@@ -22,7 +22,7 @@ Chú ý: Trong 1 đơn hàng mà có nhiều khiếu nại (Khiếu nại trùng
 
 ## <mark style="color:purple;">**2, Quy trình xử lý khiếu nại**</mark>
 
-### 2.2, Ở màn <mark style="color:green;">**Danh sách khiếu nại**</mark>, bấm <mark style="color:red;">**Tiếp nhận**</mark> <mark style="color:red;">**(1)**</mark>:
+### 2.1, Ở màn <mark style="color:green;">**Danh sách khiếu nại**</mark>, bấm <mark style="color:red;">**Tiếp nhận**</mark> <mark style="color:red;">**(1)**</mark>:
 
 ![](../../.gitbook/assets/1655374668066.png)
 
@@ -33,3 +33,21 @@ Pop-up xác nhận, bấm <mark style="color:red;">**Đồng ý (2)**</mark>:
 Bấm <mark style="color:blue;">**Mã khiếu nại**</mark> để vào <mark style="color:green;">**Chi tiết khiếu nại**</mark>:
 
 ![](../../.gitbook/assets/1655374931077.png)
+
+## 2.2, Ở màn Chi tiết khiếu nại, bấm Cập nhật trạng thái xử lý:
+
+![](../../.gitbook/assets/1655433825430.png)
+
+![](../../.gitbook/assets/1655434039388.png)
+
+{% hint style="warning" %}
+Chú ý:
+
+Đối với trạng thái <mark style="color:blue;">**Shop TQ đã refund**</mark>
+
+Tại màn hình này, chọn Shop TQ đã refund khi được nhà cung cấp hoàn tiền và chọn đúng <mark style="color:blue;">**Mã giao dịch NCC**</mark> như ảnh dưới đây:
+
+&#x20;
+
+[![](../../.gitbook/assets/1655436497601.png)](https://javascript)
+{% endhint %}
