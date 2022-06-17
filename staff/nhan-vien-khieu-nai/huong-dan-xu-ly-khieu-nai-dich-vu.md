@@ -52,4 +52,10 @@ Tại màn hình này, chọn Shop TQ đã refund khi được nhà cung cấp h
 [![](../../.gitbook/assets/1655436497601.png)](https://javascript)
 {% endhint %}
 
-### 2.3 Bấm Tạo&#x20;
+### 2.3 Ở <mark style="color:green;">**Tài chính khiếu nại**</mark> bấm <mark style="color:red;">**Tạo phương án (1)**</mark> => Tùy chọn thông tin <mark style="color:red;">**(2)**</mark> => Bấm <mark style="color:red;">**Thêm (3)**</mark>&#x20;
+
+![](../../.gitbook/assets/1655448660818.png)
+
+<mark style="color:red;">**Màn hình thành công**</mark> :tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada::tada:
+
+![](../../.gitbook/assets/1655450594763.png)
