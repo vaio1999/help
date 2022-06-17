@@ -16,6 +16,8 @@
 
 ## NHÂN VIÊN <a href="#staff" id="staff"></a>
 
+* [NHÂN VIÊN MARKETING](staff/marketing/README.md)
+  * [😃 Hướng dẫn assign khách cho SALE](staff/marketing/huong-dan-asign-khach-cho-sale.md)
 * [NHÂN VIÊN SALE](staff/sale/README.md)
   * [😆 Hướng Dẫn Thêm Khách Hàng](staff/sale/huong-dan-them-khach-hang.md)
 * [NHÂN VIÊN CSKH](staff/cs.md)
@@ -39,5 +41,3 @@
   * [🧐 Hướng dẫn quản lý phương án xử lý](staff/trancsition/huong-dan-quan-ly-phuong-an-xu-ly.md)
 * [NHÂN VIÊN KHIẾU NẠI](staff/nhan-vien-khieu-nai/README.md)
   * [😌 Hướng dẫn xử lý khiếu nại dịch vụ](staff/nhan-vien-khieu-nai/huong-dan-xu-ly-khieu-nai-dich-vu.md)
-* [NHÂN VIÊN MARKETING](staff/marketing/README.md)
-  * [😃 Hướng dẫn assign khách cho SALE](staff/marketing/huong-dan-assign-khach-cho-sale.md)
