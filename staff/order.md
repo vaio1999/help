@@ -15,7 +15,3 @@
 {% content-ref url="order/huong-dan-xu-ly-khi-thieu-hang.md" %}
 [huong-dan-xu-ly-khi-thieu-hang.md](order/huong-dan-xu-ly-khi-thieu-hang.md)
 {% endcontent-ref %}
-
-{% content-ref url="cs.md" %}
-[cs.md](cs.md)
-{% endcontent-ref %}
