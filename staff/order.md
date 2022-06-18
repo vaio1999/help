@@ -1,11 +1,17 @@
 # NHÂN VIÊN ĐẶT HÀNG
 
-<details>
+{% content-ref url="order/huong-dan-xu-ly-khong-mua-duoc-hang.md" %}
+[huong-dan-xu-ly-khong-mua-duoc-hang.md](order/huong-dan-xu-ly-khong-mua-duoc-hang.md)
+{% endcontent-ref %}
 
-<summary><strong>Nhân viên đặt hàng</strong></summary>
+{% content-ref url="order/huong-dan-xu-ly-khi-shop-tq-khong-giao.md" %}
+[huong-dan-xu-ly-khi-shop-tq-khong-giao.md](order/huong-dan-xu-ly-khi-shop-tq-khong-giao.md)
+{% endcontent-ref %}
 
-[huong-dan-xu-ly-mua-hang.md](order/huong-dan-xu-ly-mua-hang.md "mention")                         [huong-dan-xu-ly-khi-thieu-hang.md](order/huong-dan-xu-ly-khi-thieu-hang.md "mention")
+{% content-ref url="order/huong-dan-xu-ly-mua-hang.md" %}
+[huong-dan-xu-ly-mua-hang.md](order/huong-dan-xu-ly-mua-hang.md)
+{% endcontent-ref %}
 
-[huong-dan-xu-ly-khong-mua-duoc-hang.md](order/huong-dan-xu-ly-khong-mua-duoc-hang.md "mention")   [huong-dan-xu-ly-khi-shop-tq-khong-giao.md](order/huong-dan-xu-ly-khi-shop-tq-khong-giao.md "mention")
-
-</details>
+{% content-ref url="order/huong-dan-xu-ly-khi-thieu-hang.md" %}
+[huong-dan-xu-ly-khi-thieu-hang.md](order/huong-dan-xu-ly-khi-thieu-hang.md)
+{% endcontent-ref %}

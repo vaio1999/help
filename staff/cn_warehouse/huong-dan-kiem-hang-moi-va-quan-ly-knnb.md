@@ -34,7 +34,7 @@ Trên hệ thống có 2 cách để mở trang Kiểm hàng tại: màn hình <
 Nếu số lượng sản phẩm đúng với số lượng được đặt mua, nhân viên sẽ nhấn <mark style="color:blue;">**Đủ**</mark> thì số lượng được cập nhật tối đa
 {% endhint %}
 
-Hoặc nhân viên click vào <mark style="color:blue;">**Ô sản phẩm**</mark> và bấm <mark style="color:red;">**Xác nhận đủ**</mark> :thumbsup:<mark style="color:red;">\*\*\*\*</mark>
+Hoặc nhân viên click vào <mark style="color:blue;">**Ô sản phẩm**</mark> và bấm <mark style="color:red;">**Xác nhận đủ**</mark> :thumbsup:
 
 ![](../../.gitbook/assets/1655195803274.png)
 
@@ -45,8 +45,6 @@ Khi đã kiểm đủ Nhân viên kho hoàn tất quá trình kiểm hàng. Còn
 ## <mark style="color:purple;">**2,**</mark> <mark style="color:purple;">**Tạo khiếu nại người bán**</mark>
 
 Nhân viên kho Trung Quốc có thể tạo khiếu nại cho toàn bộ đơn hàng hoặc tạo riêng cho các mã sản phẩm trên đơn trong <mark style="color:green;">**Chi tiết đơn hàng**</mark>, <mark style="color:green;">**Kiểm hàng**</mark> và tại menu khiếu nại trên hệ thống.
-
-<mark style="color:purple;">\*\*\*\*</mark>
 
 ### <mark style="color:purple;">**2.1,**</mark> Tại màn hình <mark style="color:green;">**Kiểm hàng**</mark>, đối chiếu **số lượng mua**, **số lượng kiểm** và **ghi chú** (nếu có) (1) => ấn <mark style="color:orange;">**Tạo KNNB**</mark> (2):
 
