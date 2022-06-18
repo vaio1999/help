@@ -4,7 +4,7 @@ Sau khi đơn hàng được bên "Mua hàng " đặt mua thành công trên cá
 
 ## <mark style="color:purple;">**1, Thanh toán từng đơn hàng có 1 giao dịch**</mark>
 
-### 1.1, Ở màn hình <mark style="color:green;">**Quản lý mua hàng**</mark>, chọn <mark style="color:blue;">**Chưa thanh toán, Tài khoản đặt mua bấm Tìm kiếm**</mark>** **<mark style="color:red;">**(1)**</mark> click vào <mark style="color:red;">**Cập nhật thanh toán**</mark> <mark style="color:red;">(2)</mark> :
+### 1.1, Ở màn hình <mark style="color:green;">**Quản lý mua hàng**</mark>, chọn <mark style="color:blue;">**Chưa thanh toán, Tài khoản đặt mua**</mark> bấm <mark style="color:blue;">**Tìm kiếm**</mark>** **<mark style="color:red;">**(1)**</mark> click vào <mark style="color:red;">**Cập nhật thanh toán**</mark> <mark style="color:red;">(2)</mark> :
 
 ![](../../.gitbook/assets/1655277305057.png)
 
@@ -40,19 +40,7 @@ Chú ý : Nếu có trường hợp bất khả kháng xảy ra thì Nhân viên
 
 ## <mark style="color:purple;">**2, Thanh toán hàng loạt**</mark>
 
-### 2.1, Thanh toán 1 đơn hàng nhiều thanh toán
-
-### 2.2, Thanh toán hàng loạt nhiều đơn hàng&#x20;
-
-#### [ĐƠN HÀNG 1688](huong-dan-thanh-toan-ncc.md#o-man-chi-tiet-mua-hang-lam-tuong-tu-buoc-1-o-muc-1.1-greater-than-tich-chon-don-2-greater-than-clic)
-
-#### ĐƠN HÀNG TAOBAO
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-&#x20;                                                               ĐƠN HÀNG 1688
+### 2.1, Thanh toán 1688
 
 #### Ở màn <mark style="color:green;">**Chi tiết mua hàng**</mark>, làm tương tự bước (1) ở mục 1.1 =>  tích <mark style="color:red;">**Chọn đơn**</mark> <mark style="color:red;">**(2)**</mark> => Click  <mark style="color:red;">**Thanh Toán Hàng Loạt  (3)**</mark> .
 
@@ -78,13 +66,7 @@ Chú ý :Có thể chọn 1 vài đơn trong tất cả đơn để thanh toán 
 
 <mark style="color:red;">****</mark>
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-&#x20;                                                        ĐƠN HÀNG TAOBAO&#x20;
-
-<mark style="color:red;">****</mark>
+### 2.2, Thanh toán Taobao&#x20;
 
 &#x20;                                                <mark style="color:red;">**THANH TOÁN HOÀN TẤT**</mark> :tada::tada::tada::tada::tada::tada::tada::tada::tada:
 
