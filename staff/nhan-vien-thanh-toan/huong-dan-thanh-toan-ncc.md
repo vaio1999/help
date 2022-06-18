@@ -4,9 +4,11 @@ Sau khi đơn hàng được bên "Mua hàng " đặt mua thành công trên cá
 
 ## <mark style="color:purple;">**1, Thanh toán từng đơn hàng có 1 giao dịch**</mark>
 
-### 1.1, Ở màn hình <mark style="color:green;">**Quản lý mua hàng**</mark>, chọn <mark style="color:blue;">**Chưa thanh toán**</mark>** **<mark style="color:red;">**(1)**</mark> click vào <mark style="color:red;">**Cập nhật thanh toán**</mark> <mark style="color:red;">(2)</mark> :
+### 1.1, Ở màn hình <mark style="color:green;">**Quản lý mua hàng**</mark>, chọn <mark style="color:blue;">**Chưa thanh toán, Tài khoản đặt mua bấm Tìm kiếm**</mark>** **<mark style="color:red;">**(1)**</mark> click vào <mark style="color:red;">**Cập nhật thanh toán**</mark> <mark style="color:red;">(2)</mark> :
 
 ![](../../.gitbook/assets/1655277305057.png)
+
+
 
 {% hint style="info" %}
 Có thể sử dụng chức năng lọc <mark style="color:yellow;">**Trạng thái đơn**</mark> : <mark style="color:blue;">**Đã mua hàng**</mark>, <mark style="color:yellow;">**Lọc khác**</mark> : <mark style="color:blue;">**Chưa thanh toán,**</mark>** **<mark style="color:yellow;">**Tài khoản đặt mua**</mark>.
@@ -16,7 +18,7 @@ Sau khi click vào <mark style="color:red;">**Cập nhật thanh toán**</mark> 
 
 ![](../../.gitbook/assets/1655277751441.png)
 
-Lựa chọn <mark style="color:orange;">T</mark><mark style="color:orange;">**ài khoản Mua hàng**</mark> và <mark style="color:orange;">**Tài khoản Thanh toán**</mark> <mark style="color:red;">**(1)**</mark> => bấm <mark style="color:red;">**Xác nhận**</mark> <mark style="color:red;">**(2)**</mark>
+Lựa chọn <mark style="color:orange;">**Tài khoản Thanh toán**</mark> <mark style="color:red;">**(1)**</mark> => bấm <mark style="color:red;">**Xác nhận**</mark> <mark style="color:red;">**(2)**</mark>
 
 
 
@@ -36,9 +38,23 @@ Sau khi xác nhận thanh toán thành công ,giao dịch NCC của đơn hàng 
 Chú ý : Nếu có trường hợp bất khả kháng xảy ra thì Nhân viên Thanh Toán sẽ sử dụng <mark style="color:blue;">**Đưa về đơn Chưa Thanh Toán**</mark> .
 {% endhint %}
 
-## 2, Thanh toán hàng loạt
+## <mark style="color:purple;">**2, Thanh toán hàng loạt**</mark>
 
-### 2.1, Ở màn <mark style="color:green;">**Chi tiết mua hàng**</mark>, làm tương tự bước (1) ở mục 1.1 =>  tích <mark style="color:red;">**Chọn đơn**</mark> <mark style="color:red;">**(2)**</mark> => Click  <mark style="color:red;">**Thanh Toán Hàng Loạt  (3)**</mark> .
+### 2.1, Thanh toán 1 đơn hàng nhiều thanh toán
+
+### 2.2, Thanh toán hàng loạt nhiều đơn hàng&#x20;
+
+#### [ĐƠN HÀNG 1688](huong-dan-thanh-toan-ncc.md#o-man-chi-tiet-mua-hang-lam-tuong-tu-buoc-1-o-muc-1.1-greater-than-tich-chon-don-2-greater-than-clic)
+
+#### ĐƠN HÀNG TAOBAO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+&#x20;                                                               ĐƠN HÀNG 1688
+
+#### Ở màn <mark style="color:green;">**Chi tiết mua hàng**</mark>, làm tương tự bước (1) ở mục 1.1 =>  tích <mark style="color:red;">**Chọn đơn**</mark> <mark style="color:red;">**(2)**</mark> => Click  <mark style="color:red;">**Thanh Toán Hàng Loạt  (3)**</mark> .
 
 ![](../../.gitbook/assets/1655279813405.png)
 
@@ -61,6 +77,12 @@ Chú ý :Có thể chọn 1 vài đơn trong tất cả đơn để thanh toán 
 {% endhint %}
 
 <mark style="color:red;">****</mark>
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+&#x20;                                                        ĐƠN HÀNG TAOBAO&#x20;
 
 <mark style="color:red;">****</mark>
 
