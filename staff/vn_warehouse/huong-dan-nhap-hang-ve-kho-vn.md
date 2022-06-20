@@ -14,13 +14,13 @@ Sau khi hàng được vận chuyển từ Trung Quốc về đến kho Việt N
 
 ![](../../.gitbook/assets/1655460232008.png)
 
-Hệ thống tự động hiển thị lên popup Xác nhận kiện hàng về kho Việt Nam:&#x20;
+{% hint style="info" %}
+Trong trường hợp các đơn lẻ, có thể sử dụng phím  <mark style="color:blue;">**Kho VN nhận.**</mark>
+{% endhint %}
 
-&#x20;
+Hệ thống tự động hiển thị lên popup Xác nhận kiện hàng về kho Việt Nam: &#x20;
 
-&#x20;
-
-![](../../.gitbook/assets/1655461307633.png)
+![](../../.gitbook/assets/1655707684644.png)
 
 &#x20;
 
@@ -48,10 +48,10 @@ Khi hàng về tới kho Việt Nam ,nhân viên kho Việt Nam xếp hàng lên
 
 ![ ](../../.gitbook/assets/1655696864901.png)
 
-Ở màn Danh sách kiện hàng mất mã, Lọc thông tin kiện hàng mất mã (1) => Bấm Lọc (2) => Bấm icon tương tác đơn hàng (3)
+### 2.1 Ở màn <mark style="color:green;">**Danh sách kiện hàng mất mã**</mark>, Lọc thông tin kiện hàng mất mã <mark style="color:red;">**(1)**</mark> => Bấm <mark style="color:red;">**Lọc (2)**</mark> => Bấm <mark style="color:blue;">**icon tương tác đơn hàng**</mark> (3)
 
 {% hint style="info" %}
-Bấm Mã kiện hệ thống sẽ hiển thị trang Chi tiết kiện hàng, mã đơn hàng ở log Trao đổi.
+Bấm <mark style="color:blue;">**Mã kiện hệ thống**</mark> sẽ hiển thị trang Chi tiết kiện hàng, mã đơn hàng ở log Trao đổi.
 {% endhint %}
 
 &#x20;
@@ -60,6 +60,6 @@ Bấm Mã kiện hệ thống sẽ hiển thị trang Chi tiết kiện hàng, m
 
 
 
-Điền mã đơn hàng (4) => bấm Kểm tra (5) => bấm Xác nhân (6).
+Điền mã đơn hàng <mark style="color:red;">**(4)**</mark> => bấm <mark style="color:red;">**Kiểm tra**</mark> <mark style="color:red;">**(5)**</mark> => bấm <mark style="color:red;">**Xác nhân (6)**</mark>.
 
-\=> Đến đây ,nhân viên kho sẽ thao tác tiếp tục như Luồng kiện hàng có mã .
+\=> Đến đây ,nhân viên kho sẽ thao tác tiếp tục như <mark style="color:blue;">**Luồng kiện hàng có mã**</mark> .
