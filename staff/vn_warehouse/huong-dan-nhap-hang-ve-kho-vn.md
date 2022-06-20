@@ -44,36 +44,22 @@ Khi thao tác Enter để xác nhận kiện hàng về kho Việt Nam thì đ�
 
 ## 2, <mark style="color:purple;">**Luồng mất mã**</mark>&#x20;
 
-Khi hàng về tới kho Việt Nam ,nhân viên kho Việt Nam xếp hàng lên kệ thì phát hiện có kiện hàng bị rách,hỏng,mất mã .
+Khi hàng về tới kho Việt Nam ,nhân viên kho Việt Nam xếp hàng lên kệ thì phát hiện có kiện hàng bị rách,hỏng,mất mã . Nhân viên kho sẽ thao tác như sau :
 
-Xử lý :
+![ ](../../.gitbook/assets/1655696864901.png)
 
-&#x20;
+Ở màn Danh sách kiện hàng mất mã, Lọc thông tin kiện hàng mất mã (1) => Bấm Lọc (2) => Bấm icon tương tác đơn hàng (3)
 
-Nhân viên kho sẽ bóc kiện hàng ra ,chụp ảnh ,và tìm trên hệ thống xem có đơn nào bị thiếu hàng không,nếu tìm thấy thì sẽ thao tác đưa kiện vào đơn ,nếu không tìm thấy 1 thời gian thì sẽ tiến hành thanh lý.
-
-&#x20;
-
-Trường hợp tìm được đơn hàng ,nhân viên kho sẽ thao tác như sau :![no](https://naipot.com/cp/static/cp/template/js/plugins/ckeditor/plugins/smiley/images/thumbs\_down.png)
+{% hint style="info" %}
+Bấm Mã kiện hệ thống sẽ hiển thị trang Chi tiết kiện hàng, mã đơn hàng ở log Trao đổi.
+{% endhint %}
 
 &#x20;
 
-[![](https://image.naipot.com/notebook/2020/4/22/1587549490797vn49.png)](https://javascript)
+![](../../.gitbook/assets/1655706108969.png)
 
-&#x20;
 
-Đầu tiên nhân viên kho sẽ vào màn hình "Danh sách kiện hàng " --->Lọc kiện mất mã ---->Thao tác cho kiện hàng vào đơn đã tìm thấy --->Đưa kiện vào đơn.
 
-&#x20;
+Điền mã đơn hàng (4) => bấm Kểm tra (5) => bấm Xác nhân (6).
 
-[![](https://image.naipot.com/notebook/2020/4/22/1587549901312vn50.png)](https://javascript)
-
-Sau khi đưa vào đơn thành công,thì F5 lại trang để kiểm tra xem hệ thống đã ghi nhận đưa vào đơn thành công hay chưa,nếu thành công rồi thì sẽ hiển thị như hình dưới đây nhé :![no](https://naipot.com/cp/static/cp/template/js/plugins/ckeditor/plugins/smiley/images/thumbs\_down.png)
-
-&#x20;
-
-[![](https://image.naipot.com/notebook/2020/4/22/1587550078286vn51.png)](https://javascript)
-
-&#x20;
-
-\=> Đến đây ,nhân viên kho sẽ thao tác tiếp tục như luồng kiện hàng có mã nhé.
+\=> Đến đây ,nhân viên kho sẽ thao tác tiếp tục như Luồng kiện hàng có mã .

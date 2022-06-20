@@ -4,13 +4,9 @@
 [huong-dan-kien-hang-phat-chung.md](vn\_warehouse/huong-dan-kien-hang-phat-chung.md)
 {% endcontent-ref %}
 
-{% embed url="https://help.chipo.asia/staff/vn_warehouse/huong-dan-kien-hang-phat-chung" %}
-
 {% content-ref url="vn_warehouse/huong-dan-truy-thu-va-tao-yeu-cau-giao-ho-khach.md" %}
 [huong-dan-truy-thu-va-tao-yeu-cau-giao-ho-khach.md](vn\_warehouse/huong-dan-truy-thu-va-tao-yeu-cau-giao-ho-khach.md)
 {% endcontent-ref %}
-
-{% embed url="https://help.chipo.asia/staff/vn_warehouse/huong-dan-truy-thu-va-tao-yeu-cau-giao-ho-khach" %}
 
 {% content-ref url="vn_warehouse/huong-dan-nhap-hang-ve-kho-vn.md" %}
 [huong-dan-nhap-hang-ve-kho-vn.md](vn\_warehouse/huong-dan-nhap-hang-ve-kho-vn.md)
