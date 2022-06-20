@@ -10,49 +10,37 @@ Chú ý :Có thể chọn 1 vài đơn trong tất cả đơn để thanh toán 
 
 ### **1.1,  Lọc đơn cần Thanh toán ở màn Quản lý mua hàng**
 
-·         Thao tác chọn mục <mark style="color:yellow;">**Chưa thanh toán**</mark>   trên hệ thống
-
-·         Lựa chọn các tài khoản có đơn cần thanh toán.
+Bấm <mark style="color:yellow;">**Chưa thanh toán**</mark>  => Lựa chọn các tài khoản có đơn cần thanh toán.
 
 ![](<../../.gitbook/assets/image (22).png>)
 
 ### **1.2,  Đăng nhập tài khoản TQ (Thao tác bên Tab trang web TQ)**
 
-·         Đăng nhập vào tài khoản TQ tương ứng với TK đã được chọn để thanh  toán ở [**1.1**](huong-dan-thanh-toan-ncc.md#1.1-loc-don-can-thanh-toan-o-man-quan-ly-mua-hang)****
-
-·         Chọn Tab <mark style="color:red;">**待付款**</mark> (Chưa thanh toán )&#x20;
-
-·         Chọn Sao chép mã đơn. (Để có công cụ sao chép mã đơn này, yêu cầu phải cài đặt trước – báo kỹ thuật)
+Đăng nhập vào tài khoản TQ tương ứng với TK đã được chọn để thanh  toán ở [**1.1**](huong-dan-thanh-toan-ncc.md#1.1-loc-don-can-thanh-toan-o-man-quan-ly-mua-hang) **=>**Chọn Tab <mark style="color:red;">**待付款**</mark> (Chưa thanh toán ) => Chọn <mark style="color:red;">**Sao chép mã đơn**</mark>.
 
 ![](<../../.gitbook/assets/image (21).png>)
 
-
-
-&#x20;****&#x20;
-
 ### **1.3, Xác nhận mã đơn TQ được thanh toán (Thao tác trên Tab hệ thống)**
 
-·       Chọn icon Copy-Paste&#x20;
+Chọn icon Copy-Paste&#x20;
 
 ![](<../../.gitbook/assets/image (26).png>)
 
-·         Paste những mã đơn TQ vừa copy vào khung nhập số liệu. Và chọn <mark style="color:red;">**Xác nhận**</mark>. Khi đó hệ thống sẽ tự động chọn các đơn hàng có mã đơn TQ trùng khớp.
+Paste những mã đơn TQ vừa copy vào khung nhập số liệu **=>** chọn <mark style="color:red;">**Xác nhận**</mark>. Khi đó hệ thống sẽ tự động chọn các đơn hàng có mã đơn TQ trùng khớp.
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-·         Chọn <mark style="color:red;">**Thanh toán**</mark>
+Chọn <mark style="color:red;">**Thanh toán**</mark>
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-·         Chọn icon Copy-Paste và lưu ý tổng số đơn <mark style="color:red;">**(1)**</mark>  và số tiền <mark style="color:red;">**(2)**</mark> tại đây để lấy cơ sở so sánh.
+Chọn icon Copy-Paste và lưu ý tổng số đơn <mark style="color:red;">**(1)**</mark>  và số tiền <mark style="color:red;">**(2)**</mark> tại đây để lấy cơ sở so sánh.
 
 ![](<../../.gitbook/assets/image (25).png>)
 
 ### **1.4, Kiểm tra tính chính xác về số lượng. (Thao tác trên Tab web TQ)**
 
-·         Paste mã đơn TQ vừa copy ở thao tác trên vào ô nhập dữ liệu
-
-·         Chọn <mark style="color:red;">**Tự động chọn đơn**</mark>. Tại đây sẽ kiểm tra được số đơn trùng khớp để so sánh điều kiện <mark style="color:red;">**(1)**</mark> .
+Paste mã đơn TQ vừa copy ở thao tác trên vào ô nhập dữ liệu =>Chọn <mark style="color:red;">**Tự động chọn đơn**</mark>. Tại đây sẽ kiểm tra được số đơn trùng khớp để so sánh điều kiện <mark style="color:red;">**(1)**</mark> .
 
 ![](<../../.gitbook/assets/image (10).png>)
 
@@ -66,23 +54,19 @@ Chú ý :Có thể chọn 1 vài đơn trong tất cả đơn để thanh toán 
 
 ·         Đơn không có bên trang web TQ có thể do Đơn đã bị <mark style="color:blue;">**Đóng**</mark> hoặc <mark style="color:blue;">**Đơn bắt buộc yêu cầu thanh toán lẻ**</mark>.
 
-§  Nếu do đơn bị đóng -> báo GD kiểm tra và đặt lại.
+Nếu do đơn bị đóng => báo GD kiểm tra và đặt lại.
 
-§  Nếu do đơn yêu cầu thanh  toán riêng -> Xem quy trình [**Thanh toán đơn lẻ**](huong-dan-thanh-toan-ncc.md#2.-thanh-toan-don-le).
+Nếu do đơn yêu cầu thanh  toán riêng => Xem quy trình [**Thanh toán đơn lẻ**](huong-dan-thanh-toan-ncc.md#2.-thanh-toan-don-le).
 
-·         Đơn bị thanh toán thừa : Nhân viên  thanh toán chịu TN 100% giá trị thanh toán
+Đơn bị thanh toán thừa : Nhân viên  thanh toán chịu TN 100% giá trị thanh toán
 
 ### **1.5, Kiểm tra tính chính xác về số tiền. (Thao tác bên Tab web TQ)**
 
-·         Sau khi kiểm tra số lượng đơn trùng khớp và chọn thanh toán tổng hợp ở [1.3](huong-dan-thanh-toan-ncc.md#1.3-xac-nhan-ma-don-tq-duoc-thanh-toan-thao-tac-tren-tab-he-thong).
+Nếu sai số tiền. Yêu cầu kiểm tra lại số tiền của từng mã đơn hàng TQ để biết được đơn nào bị lệch => Báo GD kiểm tra.
 
-Thì yêu cầu kiểm tra đến điều kiện <mark style="color:red;">**(2)**</mark> – <mark style="color:blue;">**Số tiền**</mark>. So sánh số  tiền hiển thị bên Tab web TQ tại bước này với số tiền bên hệ thống.&#x20;
+Nếu trùng khớp số tiền => Chọn phương thức thanh toán.
 
-·         Nếu sai số tiền. Yêu cầu kiểm tra lại số tiền của từng mã đơn hàng TQ để biết được đơn nào bị lệch => Báo GD kiểm tra.
-
-·         Nếu trùng khớp số tiền => Chọn phương thức thanh toán.
-
-·         Đơn bị thanh toán sai số tiền : Nhân viên  thanh toán chịu TN giá trị thanh toán chênh lệch.
+Đơn bị thanh toán sai số tiền : Nhân viên  thanh toán chịu TN giá trị thanh toán chênh lệch.
 
 #### **1.5.1, Thanh toán qua Alipay. Nếu số dư Alipay còn đủ để thanh toán.**
 
@@ -90,7 +74,7 @@ Thì yêu cầu kiểm tra đến điều kiện <mark style="color:red;">**(2)*
 
 ![](<../../.gitbook/assets/image (27).png>)
 
-·         Hệ thống sẽ báo thành công nếu nhập đúng mã. Sau đó đến [**1.8**](huong-dan-thanh-toan-ncc.md#8.-buoc-8-hoan-thanh-thanh-toan-.-thao-tac-tren-tab-he-thong)****
+Hệ thống sẽ báo thành công nếu nhập đúng mã. Sau đó đến [**1.8**](huong-dan-thanh-toan-ncc.md#8.-buoc-8-hoan-thanh-thanh-toan-.-thao-tac-tren-tab-he-thong)****
 
 ![](<../../.gitbook/assets/image (24).png>)
 
@@ -108,15 +92,15 @@ Nhập số tài khoản ngân hàng ABC tương ứng đang dùng để thanh t
 
 ![](<../../.gitbook/assets/image (6).png>)
 
-·         Lựa chọn phương thức thanh toán là <mark style="color:yellow;">**网上银行**</mark> ( Ngân hàng trực tuyến ). Sau đó chọn<mark style="color:yellow;">**下一步**</mark> (Bước tiếp theo)&#x20;
+·         Lựa chọn phương thức thanh toán là <mark style="color:yellow;">**网上银行**</mark> ( Ngân hàng trực tuyến ) => chọn<mark style="color:yellow;">**下一步**</mark> (Bước tiếp theo)&#x20;
 
 ![](../../.gitbook/assets/image.png)
 
-·         Chọn <mark style="color:yellow;">**登录到网上银行付款**</mark> (Đăng nhập vào ngân hàng) để tiến hành bước thanh toán&#x20;
+Chọn <mark style="color:yellow;">**登录到网上银行付款**</mark> (Đăng nhập vào ngân hàng) để tiến hành bước thanh toán&#x20;
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-·         Copy Link thanh toán và đến [**1.7**](huong-dan-thanh-toan-ncc.md#1.7-thuc-hien-thanh-toan.)****
+Copy Link thanh toán và đến [**1.7**](huong-dan-thanh-toan-ncc.md#1.7-thuc-hien-thanh-toan.)****
 
 &#x20;****&#x20;
 
@@ -124,21 +108,19 @@ Nhập số tài khoản ngân hàng ABC tương ứng đang dùng để thanh t
 
 ### **1.7, Thực hiện Thanh toán.**
 
-·         Paste Link vừa Copy được sang trình duyệt&#x20;
-
-·         Chọn <mark style="color:blue;">**K宝/K令支付**</mark> sau đó chọn<mark style="color:blue;">**下一步**</mark> (Tiếp theo)&#x20;
+Paste Link vừa Copy được sang trình duyệt => Chọn <mark style="color:blue;">**K宝/K令支付**</mark> sau đó chọn<mark style="color:blue;">**下一步**</mark> (Tiếp theo)&#x20;
 
 ![](<../../.gitbook/assets/image (16).png>)
 
-·         Chọn đúng STK ngân hàng đang dùng để thanh toán <mark style="color:red;">**(1)**</mark> -> Nhập mã thanh toán của Ngân hàng <mark style="color:red;">**(2)**</mark> ->Cuối cùng chọn <mark style="color:red;">**Thanh toán**</mark> <mark style="color:red;">**(3**</mark>)&#x20;
+Chọn đúng STK ngân hàng đang dùng để thanh toán <mark style="color:red;">**(1)**</mark> => Nhập mã thanh toán của Ngân hàng <mark style="color:red;">**(2)**</mark> => Cuối cùng chọn <mark style="color:red;">**Thanh toán**</mark> <mark style="color:red;">**(3**</mark>)&#x20;
 
 ![](<../../.gitbook/assets/image (17).png>)
 
-·         Xác nhận bấm <mark style="color:red;">**OK**</mark> trên Token.
+Xác nhận bấm <mark style="color:red;">**OK**</mark> trên Token.
 
 ![](<../../.gitbook/assets/image (14).png>)
 
-·         Ngân hàng xác nhận thanh toán thành công – Hình 20. Sau đó **đến B8**
+·         Ngân hàng xác nhận thanh toán thành công => đến [1.8](huong-dan-thanh-toan-ncc.md#1.8-hoan-thanh-thanh-toan-.-thao-tac-tren-tab-he-thong)
 
 ![](<../../.gitbook/assets/image (20).png>)
 
@@ -162,21 +144,21 @@ Nhập số tài khoản ngân hàng ABC tương ứng đang dùng để thanh t
 
 ### **2.2, Kiểm tra số tiền**
 
-·         Đăng nhập Tài khoản TQ và kiểm tra số tiền trên đơn xem đã chính xác chưa
+Tài khoản TQ và kiểm tra số tiền trên đơn xem đã chính xác chưa
 
-·         Nếu sai – báo GD kiểm tra lại
+1,Nếu sai – báo GD kiểm tra lại
 
-·         Nếu đúng -  Chọn <mark style="color:yellow;">**付款**</mark> (Thanh toán)&#x20;
+2, Nếu đúng -  Chọn <mark style="color:yellow;">**付款**</mark> (Thanh toán)&#x20;
 
 ![](<../../.gitbook/assets/image (5).png>)
 
 ### **2.3, Tiến hành thanh toán**
 
-·         Làm như Bước 4 đến Bước 7 của Quy trình Thanh toán tổng hợp
+·         Làm như 1.4 đến 1.7 của Quy trình Thanh toán tổng hợp
 
 ### **2.4, Cập nhật thanh toán**
 
-·         Sau khi thanh toán thành công với bên TQ. Quay về hệ thống, chọn <mark style="color:red;">**Cập nhật Thanh toán**</mark>&#x20;
+Sau khi thanh toán thành công với bên TQ. Quay về hệ thống, chọn <mark style="color:red;">**Cập nhật Thanh toán**</mark>&#x20;
 
 ![](<../../.gitbook/assets/image (2).png>)
 
@@ -185,14 +167,6 @@ Nhập số tài khoản ngân hàng ABC tương ứng đang dùng để thanh t
 ·         Chọn TK vừa dùng để  thanh toán và <mark style="color:red;">**Xác nhận**</mark>
 
 ![](<../../.gitbook/assets/image (23).png>)
-
-
-
-
-
-&#x20;****&#x20;
-
-&#x20;
 
 &#x20;                                                <mark style="color:red;">**THANH TOÁN HOÀN TẤT**</mark> :tada::tada::tada::tada::tada::tada::tada::tada::tada:
 
