@@ -1,5 +1,5 @@
 # NHÂN VIÊN GIAO DỊCH
 
-{% content-ref url="huong-dan-quan-ly-phuong-an-xu-ly.md" %}
-[huong-dan-quan-ly-phuong-an-xu-ly.md](huong-dan-quan-ly-phuong-an-xu-ly.md)
+{% content-ref url="m1.md" %}
+[m1.md](m1.md)
 {% endcontent-ref %}

@@ -1,5 +1,5 @@
 # NHÂN VIÊN KHO TQ
 
-{% content-ref url="huong-dan-kiem-hang-moi-va-quan-ly-knnb.md" %}
-[huong-dan-kiem-hang-moi-va-quan-ly-knnb.md](huong-dan-kiem-hang-moi-va-quan-ly-knnb.md)
+{% content-ref url="m2.md" %}
+[m2.md](m2.md)
 {% endcontent-ref %}

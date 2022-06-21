@@ -1,5 +1,5 @@
 # NHÂN VIÊN MARKETING
 
-{% content-ref url="huong-dan-asign-khach-cho-sale.md" %}
-[huong-dan-asign-khach-cho-sale.md](huong-dan-asign-khach-cho-sale.md)
+{% content-ref url="m1.md" %}
+[m1.md](m1.md)
 {% endcontent-ref %}

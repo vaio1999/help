@@ -1,5 +1,5 @@
 # NHÂN VIÊN SALE
 
-{% content-ref url="huong-dan-them-khach-hang.md" %}
-[huong-dan-them-khach-hang.md](huong-dan-them-khach-hang.md)
+{% content-ref url="m1.md" %}
+[m1.md](m1.md)
 {% endcontent-ref %}

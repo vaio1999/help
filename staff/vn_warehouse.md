@@ -1,21 +1,21 @@
 # NHÂN VIÊN KHO VN
 
-{% content-ref url="vn_warehouse/huong-dan-kien-hang-phat-chung.md" %}
-[huong-dan-kien-hang-phat-chung.md](vn\_warehouse/huong-dan-kien-hang-phat-chung.md)
+{% content-ref url="vn_warehouse/m1.md" %}
+[m1.md](vn\_warehouse/m1.md)
 {% endcontent-ref %}
 
-{% content-ref url="vn_warehouse/huong-dan-truy-thu-va-tao-yeu-cau-giao-ho-khach.md" %}
-[huong-dan-truy-thu-va-tao-yeu-cau-giao-ho-khach.md](vn\_warehouse/huong-dan-truy-thu-va-tao-yeu-cau-giao-ho-khach.md)
+{% content-ref url="vn_warehouse/m2.md" %}
+[m2.md](vn\_warehouse/m2.md)
 {% endcontent-ref %}
 
-{% content-ref url="vn_warehouse/huong-dan-nhap-hang-ve-kho-vn.md" %}
-[huong-dan-nhap-hang-ve-kho-vn.md](vn\_warehouse/huong-dan-nhap-hang-ve-kho-vn.md)
+{% content-ref url="vn_warehouse/m3.md" %}
+[m3.md](vn\_warehouse/m3.md)
 {% endcontent-ref %}
 
-{% content-ref url="vn_warehouse/huong-dan-xuat-phieu-giao-cho-khach.md" %}
-[huong-dan-xuat-phieu-giao-cho-khach.md](vn\_warehouse/huong-dan-xuat-phieu-giao-cho-khach.md)
+{% content-ref url="vn_warehouse/m4.md" %}
+[m4.md](vn\_warehouse/m4.md)
 {% endcontent-ref %}
 
-{% content-ref url="vn_warehouse/huong-dan-tao-van-don.md" %}
-[huong-dan-tao-van-don.md](vn\_warehouse/huong-dan-tao-van-don.md)
+{% content-ref url="vn_warehouse/m5.md" %}
+[m5.md](vn\_warehouse/m5.md)
 {% endcontent-ref %}
