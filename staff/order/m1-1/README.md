@@ -2,9 +2,9 @@
 
 ## <mark style="color:purple;">**1.**</mark> <mark style="color:purple;">**`Xử lý đơn KNNB`**</mark>
 
-Nhân viên giao dịch có thể tạo Phương án giải quyết ở <mark style="color:green;">**Chi tiết KNNB**</mark> và <mark style="color:green;">**Danh sách Phương án giải quyết hàng hóa**</mark>**.**
+Nhân viên đặt hàng có thể tạo Phương án giải quyết ở <mark style="color:green;">**Chi tiết KNNB**</mark> và <mark style="color:green;">**Danh sách Phương án giải quyết hàng hóa**</mark>**.**
 
-### <mark style="color:purple;">**1.1**</mark> , Tại <mark style="color:green;">**Khiếu nại người bán**</mark>: Nhân viên giao dịch có thể lọc search theo các điều kiện có trên đầu trang:
+### <mark style="color:purple;">**1.1**</mark> , Tại <mark style="color:green;">**Khiếu nại người bán**</mark>: Nhân viên đặt hàng có thể lọc search theo các điều kiện có trên đầu trang:
 
 * Trạng thái xử lý.
 * Tài khoản mua hàng, nhân viên mua hàng
@@ -44,7 +44,7 @@ Màn hình tự động mở cửa sổ <mark style="color:green;">**Chi tiết 
 
 ![](../../../.gitbook/assets/1655190193834.png)
 
-Phát đơn hàng về Trung Quốc, nhân viên giao dịch liên hệ với chủ shop, sau khi xác nhận là đã nhận được hàng thì điền <mark style="color:blue;">**Mã vận đơn**</mark>:
+Phát đơn hàng về Trung Quốc, nhân viên đặt hàng liên hệ với chủ shop, sau khi xác nhận là đã nhận được hàng thì điền <mark style="color:blue;">**Mã vận đơn**</mark>:
 
 ![](../../../.gitbook/assets/1655190483794.png)
 
