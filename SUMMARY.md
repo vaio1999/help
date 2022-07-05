@@ -38,7 +38,7 @@
   * [😗 Hướng dẫn kiện hàng phát chung](staff/vn\_warehouse/m1.md)
   * [😚 Hướng dẫn truy thu và tạo yêu cầu giao hộ khách](staff/vn\_warehouse/m2.md)
   * [🥲 Hướng dẫn nhập hàng về kho VN](staff/vn\_warehouse/m3.md)
-  * [😝 Hướng dẫn xuất phiếu giao cho khách](staff/vn\_warehouse/m4.md)
+  * [😝 Hướng dẫn xuất phiếu giao hàng và xuất kho](staff/vn\_warehouse/m4.md)
   * [😛 Hướng dẫn tạo vận đơn](staff/vn\_warehouse/m5.md)
 * [NHÂN VIÊN KHIẾU NẠI](staff/nhan-vien-khieu-nai/README.md)
   * [😌 Hướng dẫn xử lý khiếu nại dịch vụ](staff/nhan-vien-khieu-nai/m1.md)
