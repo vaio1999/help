@@ -42,3 +42,7 @@
   * [😛 Hướng dẫn tạo vận đơn](staff/vn\_warehouse/m5.md)
 * [NHÂN VIÊN KHIẾU NẠI](staff/nhan-vien-khieu-nai/README.md)
   * [😌 Hướng dẫn xử lý khiếu nại dịch vụ](staff/nhan-vien-khieu-nai/m1.md)
+
+## 🙁 Các lỗi thường gặp
+
+* [Link sản phẩm không thể bỏ vào giỏ hàng](cac-loi-thuong-gap/link-san-pham-khong-the-bo-vao-gio-hang.md)
