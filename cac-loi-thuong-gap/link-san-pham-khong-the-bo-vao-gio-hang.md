@@ -4,11 +4,15 @@
 
 ![](https://lh3.googleusercontent.com/HduGa\_FmkfeI0zG2ClrHmEVtu3iY7YscdJTu03uIILHZfhg6Rg9j1UN-XAJ2kwbFlzSC3jSNGQsLGb0Oks5kwQ53BXguqCm-csvVsuQXyDHzXsnWe2d5bruTLQwKKxv7jHBOkZC2DUHr3X6kkQc)
 
-## 1. 1688 Copy chuỗi số đầu tiên sau: https://detail.1688.com/offer/ => Đây chính là id sản phẩm
+## 1. 1688&#x20;
+
+Copy chuỗi số đầu tiên sau: https://detail.1688.com/offer/ => Đây chính là id sản phẩm
 
 ![](https://lh3.googleusercontent.com/Ap95lhYJMzac1iHGZw2-pqQpGC9oWtPSPPVNVXH1VLoV-YRBry06\_LgCI\_xng3NwXbIaH\_b6T6ckEjtN7NQmFBBKCz8kGGG4aWE9fX6xzvHe49Gz2xxPHvjUBhrjjKolRhQ\_fuU7M7Q-7qJ9rrc)
 
-## 2. Taobao/Tmall Copy link:
+## 2. Taobao/Tmall&#x20;
+
+Copy link:
 
 ![](https://lh3.googleusercontent.com/L0rn9xL48VxBBSBO5YcE28-XykadGFQnPHlLk\_eBfcXjopvJ0VCTbQt9LPff-SwDeOgczHTOZI4Y9zbkt2-1k2sCTm4Ou6R7Ub41ub9XycO9PX0Xt2NhPSHtVyR9UY-nUm0ZyhpIk\_c\_xEjAXz0)
 
@@ -31,4 +35,6 @@ Link mobile:\
 
 {% hint style="danger" %}
 Nếu dùng cách trên mà không hiệu quả => Link không khả dung, báo lại cho khách là hàng không mua được.
+
+Link www.jd.com/ => dùng extension.
 {% endhint %}
