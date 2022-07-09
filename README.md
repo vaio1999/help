@@ -58,8 +58,8 @@ Nhân sự truy cập theo chức danh và phòng ban của mình:
 [vn\_warehouse.md](staff/vn\_warehouse.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="staff/marketing/" %}
+[marketing](staff/marketing/)
 {% endcontent-ref %}
 
 {% content-ref url="staff/nhan-vien-khieu-nai/" %}
