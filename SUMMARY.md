@@ -5,8 +5,8 @@
 ## QUẢN LÝ <a href="#manager" id="manager"></a>
 
 * [QUẢN LÝ SALE](< manager/sale.md>)
-* [QUẢN LÝ ĐẶT HÀNG](< manager/order.md>)
-* [QUẢN LÝ CSKH](< manager/cs.md>)
+* [QUẢN LÝ GIAO DỊCH](< manager/order.md>)
+* [QUẢN LÝ VẬN HÀNH](< manager/cs.md>)
 * [QUẢN LÝ KHO VN](< manager/vn\_warehouse.md>)
 
 ## TRƯỞNG NHÓM <a href="#leader" id="leader"></a>
